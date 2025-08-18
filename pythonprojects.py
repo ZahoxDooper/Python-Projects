@@ -14,7 +14,7 @@ elif choice == "R":
     V = float(input("Voltage(V) : "))
     I = float(input("Current(I) : "))
     print("R =" , V / R , "Ohms")
-    print("Chatgpt is a good teacher")
+    
     
     
               
