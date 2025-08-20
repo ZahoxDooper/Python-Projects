@@ -7,4 +7,4 @@ Through this project, I learned how to handle user input, implement conditional 
 What i have learned: improved my knowledge of if/else/elif and strucuting the code so it can handle multiple options
 
 
-Made a Python program that converts Celsius to Fahrenheit and calculates useful statistics. It took me about an hour to make, as I needed to learn many different commands and codes, Especially what the functions even do for example: loops, lists, and f-strings.
+3.Made a Python program that converts Celsius to Fahrenheit and calculates useful statistics. It took me about an hour to make, as I needed to learn many different commands and codes, Especially what the functions even do for example: loops, lists, and f-strings.
